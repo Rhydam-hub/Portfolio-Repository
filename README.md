@@ -12,3 +12,6 @@ https://github.com/Rhydam-hub/Covid-19-PowerBI-Analysis
 
 ## E-mail Marketing Analysis -- ##PowerBI
 https://github.com/Rhydam-hub/Email-Marketing-Analysis-PowerBI
+
+## Amazon Sales Analysis For The Year 2023-2024 -- ## PowerBI
+https://github.com/Rhydam-hub/Amazon-Sales-Analysis-PowerBI
