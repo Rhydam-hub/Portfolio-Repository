@@ -9,3 +9,6 @@ https://github.com/Rhydam-hub/-Olympics-Data-Analysis-Dashboard-Power-BI
 
 ## Covid-19 Analysis -- ## PowerBI
 https://github.com/Rhydam-hub/Covid-19-PowerBI-Analysis
+
+## E-mail Marketing Analysis -- ##PowerBI
+https://github.com/Rhydam-hub/Email-Marketing-Analysis-PowerBI
